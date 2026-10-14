@@ -1,0 +1,15 @@
+{
+  "snapshot_date": "2026-10-14",
+  "units": {
+    "listed_audio_hours": "audio hours",
+    "listed_speaker_count": "aggregate speaker count listed for each corpus",
+    "price_per_audio_hour_usd": "USD per audio hour"
+  },
+  "commercial_audio_notice": "Metadata only; no audio, transcripts, samples, individual speaker records or commercial speech rights are distributed.",
+  "source_catalogue_url": "https://www.speechdata.ai/datasets",
+  "inventory_files": [
+    "inventory.csv",
+    "inventory.json"
+  ],
+  "catalogue_description": "60 languages and dialects; 49 distinct language names in 60 catalogue entries"
+}
