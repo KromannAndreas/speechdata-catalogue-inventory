@@ -1,0 +1,61 @@
+slug,name,language,variant,country,region,listed_audio_hours,listed_speaker_count,catalogue_url,price_per_audio_hour_usd
+english-usa,English (US) Conversational Speech Dataset,English,US,United States,North America,1500,150,https://www.speechdata.ai/datasets/english-usa,90
+english-south-africa,English (South African) Conversational Speech Dataset,English,South African,South Africa,Africa,2000,200,https://www.speechdata.ai/datasets/english-south-africa,60
+english-singapore,English (Singaporean) Conversational Speech Dataset,English,Singaporean,Singapore,Southeast Asia,2000,200,https://www.speechdata.ai/datasets/english-singapore,60
+spanish-spain,Spanish (European) Conversational Speech Dataset,Spanish,European,Spain,Europe,1000,100,https://www.speechdata.ai/datasets/spanish-spain,85
+spanish-mexico,Spanish (Latin American) Conversational Speech Dataset,Spanish,Latin American,Mexico,Latin America,2000,200,https://www.speechdata.ai/datasets/spanish-mexico,65
+french-france,French (European) Conversational Speech Dataset,French,European,France,Europe,1000,100,https://www.speechdata.ai/datasets/french-france,95
+french-dr-congo,French (African) Conversational Speech Dataset,French,African,DR Congo,Africa,2000,200,https://www.speechdata.ai/datasets/french-dr-congo,65
+portuguese-portugal,Portuguese (European) Conversational Speech Dataset,Portuguese,European,Portugal,Europe,1000,100,https://www.speechdata.ai/datasets/portuguese-portugal,85
+portuguese-brazil,Portuguese (Brazilian) Conversational Speech Dataset,Portuguese,Brazilian,Brazil,Latin America,2000,200,https://www.speechdata.ai/datasets/portuguese-brazil,65
+portuguese-angola,Portuguese (African) Conversational Speech Dataset,Portuguese,African,Angola,Africa,500,50,https://www.speechdata.ai/datasets/portuguese-angola,65
+german,German Conversational Speech Dataset,German,,Germany,Europe,1000,50,https://www.speechdata.ai/datasets/german,95
+dutch-netherlands,Dutch Conversational Speech Dataset,Dutch,,Netherlands,Europe,1000,100,https://www.speechdata.ai/datasets/dutch-netherlands,95
+dutch-suriname,Dutch (Surinamese) Conversational Speech Dataset,Dutch,Surinamese,Suriname,Latin America,1000,100,https://www.speechdata.ai/datasets/dutch-suriname,65
+italian,Italian Conversational Speech Dataset,Italian,,Italy,Europe,1000,100,https://www.speechdata.ai/datasets/italian,75
+polish,Polish Conversational Speech Dataset,Polish,,Poland,Europe,1000,100,https://www.speechdata.ai/datasets/polish,85
+russian,Russian Conversational Speech Dataset,Russian,,Russia,Europe,1000,100,https://www.speechdata.ai/datasets/russian,85
+ukrainian,Ukrainian Conversational Speech Dataset,Ukrainian,,Ukraine,Europe,1500,150,https://www.speechdata.ai/datasets/ukrainian,85
+romanian,Romanian Conversational Speech Dataset,Romanian,,Romania,Europe,1000,100,https://www.speechdata.ai/datasets/romanian,85
+greek,Greek Conversational Speech Dataset,Greek,,Greece,Europe,1000,100,https://www.speechdata.ai/datasets/greek,85
+czech,Czech Conversational Speech Dataset,Czech,,Czechia,Europe,1000,100,https://www.speechdata.ai/datasets/czech,90
+slovak,Slovak Conversational Speech Dataset,Slovak,,Slovakia,Europe,1000,100,https://www.speechdata.ai/datasets/slovak,90
+hungarian,Hungarian Conversational Speech Dataset,Hungarian,,Hungary,Europe,1000,100,https://www.speechdata.ai/datasets/hungarian,90
+bulgarian,Bulgarian Conversational Speech Dataset,Bulgarian,,Bulgaria,Europe,1500,150,https://www.speechdata.ai/datasets/bulgarian,85
+croatian,Croatian Conversational Speech Dataset,Croatian,,Croatia,Europe,1500,150,https://www.speechdata.ai/datasets/croatian,75
+serbian,Serbian Conversational Speech Dataset,Serbian,,Serbia,Europe,1500,150,https://www.speechdata.ai/datasets/serbian,75
+catalan,Catalan Conversational Speech Dataset,Catalan,,Spain,Europe,500,50,https://www.speechdata.ai/datasets/catalan,75
+swedish,Swedish Conversational Speech Dataset,Swedish,,Sweden,Europe,500,50,https://www.speechdata.ai/datasets/swedish,95
+norwegian,Norwegian Conversational Speech Dataset,Norwegian,,Norway,Europe,500,50,https://www.speechdata.ai/datasets/norwegian,95
+danish,Danish Conversational Speech Dataset,Danish,,Denmark,Europe,500,50,https://www.speechdata.ai/datasets/danish,95
+finnish,Finnish Conversational Speech Dataset,Finnish,,Finland,Europe,500,50,https://www.speechdata.ai/datasets/finnish,95
+hindi,Hindi Conversational Speech Dataset,Hindi,,India,South Asia,2000,200,https://www.speechdata.ai/datasets/hindi,65
+bengali,Bengali Conversational Speech Dataset,Bengali,,Bangladesh,South Asia,2000,200,https://www.speechdata.ai/datasets/bengali,65
+urdu,Urdu Conversational Speech Dataset,Urdu,,Pakistan,South Asia,1000,100,https://www.speechdata.ai/datasets/urdu,65
+punjabi,Punjabi Conversational Speech Dataset,Punjabi,,India,South Asia,500,50,https://www.speechdata.ai/datasets/punjabi,65
+gujarati,Gujarati Conversational Speech Dataset,Gujarati,,India,South Asia,500,50,https://www.speechdata.ai/datasets/gujarati,65
+marathi,Marathi Conversational Speech Dataset,Marathi,,India,South Asia,500,50,https://www.speechdata.ai/datasets/marathi,65
+tamil,Tamil Conversational Speech Dataset,Tamil,,India,South Asia,500,50,https://www.speechdata.ai/datasets/tamil,75
+telugu,Telugu Conversational Speech Dataset,Telugu,,India,South Asia,500,50,https://www.speechdata.ai/datasets/telugu,65
+kannada,Kannada Conversational Speech Dataset,Kannada,,India,South Asia,500,50,https://www.speechdata.ai/datasets/kannada,65
+malayalam,Malayalam Conversational Speech Dataset,Malayalam,,India,South Asia,500,50,https://www.speechdata.ai/datasets/malayalam,65
+indonesian,Indonesian Conversational Speech Dataset,Indonesian,,Indonesia,Southeast Asia,2000,200,https://www.speechdata.ai/datasets/indonesian,65
+malay,Malay Conversational Speech Dataset,Malay,,Malaysia,Southeast Asia,2000,200,https://www.speechdata.ai/datasets/malay,65
+thai,Thai Conversational Speech Dataset,Thai,,Thailand,Southeast Asia,2000,200,https://www.speechdata.ai/datasets/thai,75
+vietnamese,Vietnamese Conversational Speech Dataset,Vietnamese,,Vietnam,Southeast Asia,2000,200,https://www.speechdata.ai/datasets/vietnamese,65
+tagalog,Tagalog Conversational Speech Dataset,Tagalog,,Philippines,Southeast Asia,2000,200,https://www.speechdata.ai/datasets/tagalog,65
+mandarin-taiwan,Mandarin Chinese (Taiwanese) Conversational Speech Dataset,Mandarin Chinese,Taiwanese,Taiwan,East Asia,1500,150,https://www.speechdata.ai/datasets/mandarin-taiwan,70
+japanese,Japanese Conversational Speech Dataset,Japanese,,Japan,East Asia,500,50,https://www.speechdata.ai/datasets/japanese,95
+korean,Korean Conversational Speech Dataset,Korean,,South Korea,East Asia,500,50,https://www.speechdata.ai/datasets/korean,95
+arabic-msa,Arabic (Modern Standard) Conversational Speech Dataset,Arabic,Modern Standard,Saudi Arabia,Middle East,2000,200,https://www.speechdata.ai/datasets/arabic-msa,90
+arabic-gulf,Arabic (Gulf) Conversational Speech Dataset,Arabic,Gulf,Saudi Arabia,Middle East,500,50,https://www.speechdata.ai/datasets/arabic-gulf,90
+arabic-levantine,Arabic (Levantine) Conversational Speech Dataset,Arabic,Levantine,Lebanon,Middle East,500,50,https://www.speechdata.ai/datasets/arabic-levantine,65
+arabic-egyptian,Arabic (Egyptian) Conversational Speech Dataset,Arabic,Egyptian,Egypt,Middle East,2000,200,https://www.speechdata.ai/datasets/arabic-egyptian,65
+arabic-darija,Arabic (Darija) Conversational Speech Dataset,Arabic,Darija,Morocco,Africa,1500,150,https://www.speechdata.ai/datasets/arabic-darija,65
+hebrew,Hebrew Conversational Speech Dataset,Hebrew,,Israel,Middle East,500,50,https://www.speechdata.ai/datasets/hebrew,95
+persian-farsi,Persian (Farsi) Conversational Speech Dataset,Persian,Farsi,Iran,Middle East,500,50,https://www.speechdata.ai/datasets/persian-farsi,65
+turkish,Turkish Conversational Speech Dataset,Turkish,,Turkey,Middle East,2000,200,https://www.speechdata.ai/datasets/turkish,75
+swahili,Swahili Conversational Speech Dataset,Swahili,,Kenya,Africa,2000,200,https://www.speechdata.ai/datasets/swahili,65
+hausa,Hausa Conversational Speech Dataset,Hausa,,Nigeria,Africa,2000,200,https://www.speechdata.ai/datasets/hausa,65
+yoruba,Yoruba Conversational Speech Dataset,Yoruba,,Nigeria,Africa,2000,200,https://www.speechdata.ai/datasets/yoruba,65
+amharic,Amharic Conversational Speech Dataset,Amharic,,Ethiopia,Africa,2000,200,https://www.speechdata.ai/datasets/amharic,65
